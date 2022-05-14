@@ -1,0 +1,34 @@
+/* CSS Document */
+.modal-dialog{
+	border-color: #000000;
+}
+
+.modal-header{
+	background-color: #000B43;
+	color: #FFFFFF;
+	border-color: #000000;
+}
+
+.modal-body{
+	border-color: #000000;	
+}
+
+.modal-footer{
+	border-color: #000000;
+}
+
+.close{
+	color: #F00000;
+}
+
+.close:hover{
+	color: #F00000;
+}
+
+.principal{
+	height: 410px;
+}
+
+.principal_2{
+	height: 550px;
+}

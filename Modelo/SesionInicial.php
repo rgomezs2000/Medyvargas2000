@@ -1,0 +1,10 @@
+<?php
+	isset($_SESSION['Usuario']['idUsuarios']);  
+	isset($_SESSION['Usuario']['Nombre']);
+	isset($_SESSION['Usuario']['Apellido']);
+	isset($_SESSION['Usuario']['Cedula']);
+	isset($_SESSION['Usuario']['Correo']);
+	isset($_SESSION['Usuario']['Login']);
+	isset($_SESSION['Usuario']['TipoUsuario']);	
+	isset($_SESSION['hora']);
+?>
